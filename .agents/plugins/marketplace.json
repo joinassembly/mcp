@@ -1,0 +1,20 @@
+{
+  "name": "quantum-workplace",
+  "interface": {
+    "displayName": "Quantum Workplace"
+  },
+  "plugins": [
+    {
+      "name": "assembly-recognition",
+      "source": {
+        "source": "local",
+        "path": "./plugins/assembly-recognition"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

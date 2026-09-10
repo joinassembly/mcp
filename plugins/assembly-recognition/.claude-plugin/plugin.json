@@ -1,0 +1,24 @@
+{
+  "name": "assembly-recognition",
+  "version": "0.5.0",
+  "description": "Recognize coworkers with Assembly by Quantum Workplace: find recognition opportunities, draft evidence-based messages, and post recognition after you confirm.",
+  "author": {
+    "name": "Quantum Workplace",
+    "url": "https://www.quantumworkplace.com/"
+  },
+  "homepage": "https://joinassembly.com/",
+  "repository": "https://github.com/joinassembly/mcp",
+  "license": "Proprietary",
+  "keywords": [
+    "employee-recognition",
+    "appreciation",
+    "praise",
+    "kudos",
+    "rewards",
+    "celebrations",
+    "employee-engagement",
+    "hr"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
